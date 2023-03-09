@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mchris-hub
 - 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning python with django
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me christianmambu2@gmail.com
 
